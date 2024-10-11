@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Optional: Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (e.g., Visual Studio Code)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# NPM debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
