@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eungobs",
   "license": "ISC",
-  "description": "",
+  "description": "A simple Node.js server for deployment",
   "dependencies": {
     "express": "^4.21.1"
   }
 }
+
